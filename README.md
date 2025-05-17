@@ -1,5 +1,5 @@
 
-# 📐 AI Math Tutor with Streamlit & Ollama
+# 📐 AI Math Tutor ChatBot with Ollama
 
 This project is a **friendly, interactive AI-powered math tutor** built with [Streamlit](https://streamlit.io/) and [Ollama](https://ollama.ai/), offering step-by-step explanations and real-world examples to help users understand math concepts easily.
 
